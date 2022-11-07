@@ -32,8 +32,8 @@ At the end of this challange I am Able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [iSoyecodes/Product-preview-re-do](https://isoyecodes.github.io/Product-preview-re-do/)
+- Solution URL: [iSoyecodes solution](https://github.com/iSoyecodes/Product-preview-re-do)
+- Live Site URL: [iSoyecodes live site](https://isoyecodes.github.io/Product-preview-re-do/)
 
 ## My process
 
